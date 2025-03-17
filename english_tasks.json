@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Яке число йде далі: 2, 4, 6, 8, ...?",
+        "answer": "10",
+        "reward_minutes": 1,
+        "times_solved": 2
+    },
+    {
+        "question": "Знайди пропущене число: 3, 6, 9, 12, ?, 18",
+        "answer": "15",
+        "reward_minutes": 1,
+        "times_solved": 2
+    },
+    {
+        "question": "У кошику 7 яблук. Ти взяв 3. Скільки яблук у тебе залишилося?",
+        "answer": "4",
+        "reward_minutes": 1,
+        "times_solved": 2
+    }
+]

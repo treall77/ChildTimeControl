@@ -1,0 +1,6 @@
+{
+    "auto_shutdown": false,
+    "max_earned_time": 40,
+    "remove_after_solved": 3,
+    "password": "12345"
+}

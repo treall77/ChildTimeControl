@@ -1,0 +1,282 @@
+[
+    {
+        "question": "Яке число йде далі: 2, 4, 6, 8, ...?",
+        "answer": "10",
+        "reward_minutes": 1,
+        "times_solved": 2
+    },
+    {
+        "question": "Знайди пропущене число: 3, 6, 9, 12, ?, 18",
+        "answer": "15",
+        "reward_minutes": 1,
+        "times_solved": 1
+    },
+    {
+        "question": "У кошику 7 яблук. Ти взяв 3. Скільки яблук у тебе залишилося?",
+        "answer": "4",
+        "reward_minutes": 1,
+        "times_solved": 1
+    },
+    {
+        "question": "Якщо 5 × 6 = 30, то скільки буде 5 × 7?",
+        "answer": "35",
+        "reward_minutes": 1,
+        "times_solved": 1
+    },
+    {
+        "question": "Знайди площу квадрата зі стороною 5 см.",
+        "answer": "25",
+        "reward_minutes": 1,
+        "times_solved": 0
+    },
+    {
+        "question": "Якщо зараз 10:00, то який час буде через 2 години 30 хвилин?",
+        "answer": "12:30",
+        "reward_minutes": 1,
+        "times_solved": 0
+    },
+    {
+        "question": "У класі 24 учні. Їх розділили на групи по 6 осіб. Скільки груп вийшло?",
+        "answer": "4",
+        "reward_minutes": 1,
+        "times_solved": 0
+    },
+    {
+        "question": "Якщо 2/3 числа дорівнює 18, знайди це число.",
+        "answer": "27",
+        "reward_minutes": 2,
+        "times_solved": 1
+    },
+    {
+        "question": "Знайди пропущене число: 1, 4, 9, 16, 25, ?",
+        "answer": "36",
+        "reward_minutes": 1,
+        "times_solved": 0
+    },
+    {
+        "question": "Якщо 3 яблука коштують 12 грн, то скільки коштують 7 яблук?",
+        "answer": "28",
+        "reward_minutes": 1,
+        "times_solved": 0
+    },
+    {
+        "question": "Скільки кутів у п'ятикутника?",
+        "answer": "5",
+        "reward_minutes": 1,
+        "times_solved": 1
+    },
+    {
+        "question": "Якщо зараз 15:45, то скільки часу минуло з 13:15?",
+        "answer": "2:30",
+        "reward_minutes": 1,
+        "times_solved": 1
+    },
+    {
+        "question": "Батько старший за сина на 25 років. Через 10 років сума їх віків буде 65 років. Скільки років синові зараз?",
+        "answer": "15",
+        "reward_minutes": 2,
+        "times_solved": 1
+    },
+    {
+        "question": "Знайди пропущене число: 2, 5, 10, 17, ?, 37",
+        "answer": "26",
+        "reward_minutes": 2,
+        "times_solved": 0
+    },
+    {
+        "question": "Якщо 7 × 8 = 56, то скільки буде 7 × 9 + 7?",
+        "answer": "70",
+        "reward_minutes": 1,
+        "times_solved": 0
+    },
+    {
+        "question": "У коробці 20 кульок: червоні, сині та зелені. Червоних у 2 рази більше, ніж синіх, а зелених — на 5 більше, ніж синіх. Скільки зелених кульок у коробці?",
+        "answer": "9",
+        "reward_minutes": 2,
+        "times_solved": 2
+    },
+    {
+        "question": "Знайди об'єм куба з ребром 4 см.",
+        "answer": "64",
+        "reward_minutes": 1,
+        "times_solved": 1
+    },
+    {
+        "question": "Якщо всі птахи літають, а пінгвін — птах, то чи літає пінгвін?(Так/Ні)",
+        "answer": "Ні",
+        "reward_minutes": 1,
+        "times_solved": 0
+    },
+    {
+        "question": "Якщо зараз 9:00, то скільки разів стрілки годинника перетнуться до 12:00?",
+        "answer": "2",
+        "reward_minutes": 2,
+        "times_solved": 2
+    },
+    {
+        "question": "Знайди пропущене число: 1, 3, 6, 10, 15, ?",
+        "answer": "21",
+        "reward_minutes": 1,
+        "times_solved": 0
+    },
+    {
+        "question": "Запишіть число: сімсот двадцять три тисячі сто вісім.",
+        "answer": "723108",
+        "reward_minutes": 2,
+        "times_solved": 0
+    },
+    {
+        "question": "Яке число більше: 527 819 чи 527 918?",
+        "answer": "527918",
+        "reward_minutes": 2,
+        "times_solved": 0
+    },
+    {
+        "question": "Обчисліть: 480 + 320 × 2.",
+        "answer": "1120",
+        "reward_minutes": 2,
+        "times_solved": 0
+    },
+    {
+        "question": "Розділіть 528 на 16 письмово.",
+        "answer": "33",
+        "reward_minutes": 2,
+        "times_solved": 0
+    },
+    {
+        "question": "Скільки буде 2400 ÷ 100?",
+        "answer": "24",
+        "reward_minutes": 2,
+        "times_solved": 0
+    },
+    {
+        "question": "Розділіть 47 на 5 з остачею(через кому).",
+        "answer": "9,2",
+        "reward_minutes": 2,
+        "times_solved": 0
+    },
+    {
+        "question": "Скільки метрів у 3 км 250 м?",
+        "answer": "3250",
+        "reward_minutes": 2,
+        "times_solved": 0
+    },
+    {
+        "question": "Яка дріб більша: 3/8 чи 5/8?",
+        "answer": "5/8",
+        "reward_minutes": 2,
+        "times_solved": 0
+    },
+    {
+        "question": "Знайдіть 1/4 від 48.",
+        "answer": "12",
+        "reward_minutes": 2,
+        "times_solved": 0
+    },
+    {
+        "question": "Розв'яжіть рівняння: x + 36 = 64.",
+        "answer": "28",
+        "reward_minutes": 2,
+        "times_solved": 0
+    },
+    {
+        "question": "Знайдіть четверте пропорційне для чисел 4, 6 і 8.",
+        "answer": "12",
+        "reward_minutes": 2,
+        "times_solved": 1
+    },
+    {
+        "question": "Розділіть 120 у відношенні 2:3(через пробіл).",
+        "answer": "48 72",
+        "reward_minutes": 2,
+        "times_solved": 0
+    },
+    {
+        "question": "Якщо різниця двох чисел дорівнює 18, а більше число – 42, знайдіть менше число.",
+        "answer": "24",
+        "reward_minutes": 2,
+        "times_solved": 0
+    },
+    {
+        "question": "Знайдіть число, якщо його сума з 28 дорівнює 84.",
+        "answer": "56",
+        "reward_minutes": 2,
+        "times_solved": 0
+    },
+    {
+        "question": "Знайдіть число, якщо воно в 3 рази більше за 27.",
+        "answer": "81",
+        "reward_minutes": 2,
+        "times_solved": 1
+    },
+    {
+        "question": "У коробці було кілька олівців. Якщо взяти 5, залишиться 15. Скільки олівців було спочатку?",
+        "answer": "20",
+        "reward_minutes": 2,
+        "times_solved": 0
+    },
+    {
+        "question": "Два однакових за швидкістю човни пропливли 24 км за течією за 2 години. Яка швидкість течії, якщо власна швидкість човнів 10 км/год?",
+        "answer": "2",
+        "reward_minutes": 2,
+        "times_solved": 0
+    },
+    {
+        "question": "Знайдіть площу квадрата зі стороною 6 см.",
+        "answer": "36",
+        "reward_minutes": 2,
+        "times_solved": 2
+    },
+    {
+        "question": "Знайдіть периметр прямокутника зі сторонами 5 см і 8 см.",
+        "answer": "26",
+        "reward_minutes": 2,
+        "times_solved": 1
+    },
+    {
+        "question": "У саду було 24 яблуні. Після того, як посадили ще 8, скільки всього яблунь стало?",
+        "answer": "32",
+        "reward_minutes": 3
+    },
+    {
+        "question": "На полиці було 18 книг. 5 книг забрали, а потім додали ще 7. Скільки книг залишилося?",
+        "answer": "20",
+        "reward_minutes": 3
+    },
+    {
+        "question": "У трьох коробках разом 45 цукерок. Якщо в першій коробці 12, а в другій 18, скільки цукерок у третій коробці?",
+        "answer": "15",
+        "reward_minutes": 4
+    },
+    {
+        "question": "Два автобуси можуть перевезти 96 пасажирів. Скільки пасажирів перевозить один автобус?",
+        "answer": "48",
+        "reward_minutes": 4,
+        "times_solved": 1
+    },
+    {
+        "question": "Оленка купила 4 блокноти по 15 грн кожен. Скільки грошей вона витратила?",
+        "answer": "60",
+        "reward_minutes": 3
+    },
+    {
+        "question": "Два крани наповнюють басейн за 6 годин і 4 години відповідно. За скільки годин вони наповнять його разом? (через : )",
+        "answer": "2:24",
+        "reward_minutes": 5
+    },
+    {
+        "question": "На фестивалі було 150 людей. 30% з них були дітьми. Скільки дітей було на фестивалі?",
+        "answer": "45",
+        "reward_minutes": 4
+    },
+    {
+        "question": "У місті 8 шкіл, і кожна школа має 12 класів. Скільки всього класів у місті?",
+        "answer": "96",
+        "reward_minutes": 3
+    },
+    {
+        "question": "Петро пройшов 3/5 шляху, що становить 15 км. Яка загальна довжина шляху?",
+        "answer": "25",
+        "reward_minutes": 5
+    }
+]
